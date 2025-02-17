@@ -90,3 +90,8 @@ const heros = [
         create: 2003
     }
 ]
+
+const cardArr =(obj)=> {
+    console.log('heros')
+    const column = document.getElementById('col')
+}
